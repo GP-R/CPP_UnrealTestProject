@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Test_2022_10_02",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
