@@ -7,7 +7,10 @@
 		{
 			"Name": "Test_2022_10_02",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
